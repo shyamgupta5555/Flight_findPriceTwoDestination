@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "64b667fdf2e9f2ad9afe69a4"
+  },
+  "name": "ram",
+  "email": "shyamgupta02@gmail.com",
+  "password": "shyam"
+},
+{
+  "_id": {
+    "$oid": "64b66ca6eef4e421d354fde4"
+  },
+  "name": "ram",
+  "email": "shyamguta02@gmail.com",
+  "password": "shyam"
+},
+{
+  "_id": {
+    "$oid": "64b66ebf228fb8c905d899db"
+  },
+  "name": "ram",
+  "email": "shyamgupt02@gmail.com",
+  "password": "shyam"
+},
+{
+  "_id": {
+    "$oid": "64b66faee00555220ea917ce"
+  },
+  "name": "ram",
+  "email": "shyamgut02@gmail.com",
+  "password": "shyam"
+},
+{
+  "_id": {
+    "$oid": "64b821eb19ae5c83ee4d6f53"
+  },
+  "name": "ram",
+  "email": "shyamgu02@gmail.com",
+  "password": "shyam"
+},
+{
+  "_id": {
+    "$oid": "64b82250b3ce424313292f9d"
+  },
+  "name": "ram",
+  "email": "shymgu02@gmail.com",
+  "password": null
+}]

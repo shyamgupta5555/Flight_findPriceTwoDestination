@@ -1,0 +1,394 @@
+[
+  {
+    "source": "delhi",
+    "destination": "jaipur",
+    "indigo": "₹1,614",
+    "airAsia": "₹1,856",
+    "vistara": "₹2,014"
+  },
+  {
+    "source": "jaipur",
+    "destination": "delhi",
+    "indigo": "₹1,914",
+    "airAsia": "₹1,314",
+    "vistara": "₹1,614"
+  },
+  {
+    "source": "kanpur",
+    "destination": "delhi",
+    "indigo": "₹2,114",
+    "airAsia": "₹6,614",
+    "vistara": "₹3,614"
+  },
+  {
+    "source": "delhi",
+    "destination": "kanpur",
+    "indigo": "₹3,914",
+    "airAsia": "₹2,214",
+    "vistara": "₹2,614"
+  },
+  {
+    "source": "kanpur",
+    "destination": "jaipur",
+    "indigo": "₹2,614",
+    "airAsia": "₹914",
+    "vistara": "₹1,624"
+  },
+  {
+    "source": "jaipur",
+    "destination": "kanpur",
+    "indigo": "₹1,694",
+    "airAsia": "₹3,714",
+    "vistara": "₹6,684"
+  },
+  {
+    "source": "mumbai",
+    "destination": "bangalore",
+    "indigo": "₹2,500",
+    "airAsia": "₹2,000",
+    "vistara": "₹2,300"
+  },
+  {
+    "source": "bangalore",
+    "destination": "mumbai",
+    "indigo": "₹2,200",
+    "airAsia": "₹2,100",
+    "vistara": "₹2,400"
+  },
+  {
+    "source": "chennai",
+    "destination": "kolkata",
+    "indigo": "₹1,800",
+    "airAsia": "₹2,100",
+    "vistara": "₹2,400"
+  },
+  {
+    "source": "kolkata",
+    "destination": "chennai",
+    "indigo": "₹2,300",
+    "airAsia": "₹2,200",
+    "vistara": "₹2,100"
+  },
+  {
+    "source": "hyderabad",
+    "destination": "pune",
+    "indigo": "₹1,700",
+    "airAsia": "₹1,800",
+    "vistara": "₹1,900"
+  },
+  {
+    "source": "pune",
+    "destination": "hyderabad",
+    "indigo": "₹1,950",
+    "airAsia": "₹1,850",
+    "vistara": "₹1,750"
+  },
+  {
+    "source": "agra",
+    "destination": "lucknow",
+    "indigo": "₹1,500",
+    "airAsia": "₹1,400",
+    "vistara": "₹1,600"
+  },
+  {
+    "source": "lucknow",
+    "destination": "agra",
+    "indigo": "₹1,300",
+    "airAsia": "₹1,200",
+    "vistara": "₹1,100"
+  },
+  {
+    "source": "ahmedabad",
+    "destination": "surat",
+    "indigo": "₹1,200",
+    "airAsia": "₹1,300",
+    "vistara": "₹1,400"
+  },
+  {
+    "source": "surat",
+    "destination": "ahmedabad",
+    "indigo": "₹1,100",
+    "airAsia": "₹1,200",
+    "vistara": "₹1,300"
+  },
+  {
+    "source": "jaipur",
+    "destination": "ahmedabad",
+    "indigo": "₹1,700",
+    "airAsia": "₹1,600",
+    "vistara": "₹1,500"
+  },
+  {
+    "source": "ahmedabad",
+    "destination": "jaipur",
+    "indigo": "₹1,600",
+    "airAsia": "₹1,500",
+    "vistara": "₹1,400"
+  },
+  {
+    "source": "kolkata",
+    "destination": "lucknow",
+    "indigo": "₹2,100",
+    "airAsia": "₹2,200",
+    "vistara": "₹2,300"
+  },
+  {
+    "source": "lucknow",
+    "destination": "kolkata",
+    "indigo": "₹2,200",
+    "airAsia": "₹2,100",
+    "vistara": "₹2,300"
+  },
+  {
+    "source": "mumbai",
+    "destination": "delhi",
+    "indigo": "₹3,000",
+    "airAsia": "₹2,800",
+    "vistara": "₹2,600"
+  },
+  {
+    "source": "delhi",
+    "destination": "mumbai",
+    "indigo": "₹2,900",
+    "airAsia": "₹2,700",
+    "vistara": "₹2,500"
+  },
+  {
+    "source": "bangalore",
+    "destination": "hyderabad",
+    "indigo": "₹1,800",
+    "airAsia": "₹1,900",
+    "vistara": "₹2,000"
+  },
+  {
+    "source": "hyderabad",
+    "destination": "bangalore",
+    "indigo": "₹1,950",
+    "airAsia": "₹1,850",
+    "vistara": "₹1,750"
+  },
+  {
+    "source": "chennai",
+    "destination": "mumbai",
+    "indigo": "₹2,200",
+    "airAsia": "₹2,300",
+    "vistara": "₹2,400"
+  },
+  {
+    "source": "mumbai",
+    "destination": "chennai",
+    "indigo": "₹2,300",
+    "airAsia": "₹2,200",
+    "vistara": "₹2,100"
+  },
+  {
+    "source": "kolkata",
+    "destination": "delhi",
+    "indigo": "₹2,400",
+    "airAsia": "₹2,300",
+    "vistara": "₹2,200"
+  },
+  {
+    "source": "delhi",
+    "destination": "kolkata",
+    "indigo": "₹2,300",
+    "airAsia": "₹2,400",
+    "vistara": "₹2,200"
+  },
+  {
+    "source": "chennai",
+    "destination": "bangalore",
+    "indigo": "₹1,900",
+    "airAsia": "₹1,800",
+    "vistara": "₹1,700"
+  },
+  {
+    "source": "bangalore",
+    "destination": "chennai",
+    "indigo": "₹2,000",
+    "airAsia": "₹2,100",
+    "vistara": "₹2,200"
+  },
+  {
+    "source": "jaipur",
+    "destination": "lucknow",
+    "indigo": "₹1,500",
+    "airAsia": "₹1,400",
+    "vistara": "₹1,300"
+  },
+  {
+    "source": "lucknow",
+    "destination": "jaipur",
+    "indigo": "₹1,400",
+    "airAsia": "₹1,500",
+    "vistara": "₹1,600"
+  },
+  {
+    "source": "mumbai",
+    "destination": "chennai",
+    "indigo": "₹2,200",
+    "airAsia": "₹2,300",
+    "vistara": "₹2,400"
+  },
+  {
+    "source": "chennai",
+    "destination": "mumbai",
+    "indigo": "₹2,300",
+    "airAsia": "₹2,200",
+    "vistara": "₹2,100"
+  },
+  {
+    "source": "kolkata",
+    "destination": "hyderabad",
+    "indigo": "₹2,100",
+    "airAsia": "₹2,200",
+    "vistara": "₹2,300"
+  },
+  {
+    "source": "hyderabad",
+    "destination": "kolkata",
+    "indigo": "₹2,200",
+    "airAsia": "₹2,100",
+    "vistara": "₹2,300"
+  },
+  {
+    "source": "delhi",
+    "destination": "ahmedabad",
+    "indigo": "₹2,500",
+    "airAsia": "₹2,600",
+    "vistara": "₹2,700"
+  },
+  {
+    "source": "ahmedabad",
+    "destination": "delhi",
+    "indigo": "₹2,400",
+    "airAsia": "₹2,300",
+    "vistara": "₹2,200"
+  },
+  {
+    "source": "chennai",
+    "destination": "lucknow",
+    "indigo": "₹1,800",
+    "airAsia": "₹1,900",
+    "vistara": "₹2,000"
+  },
+  {
+    "source": "lucknow",
+    "destination": "chennai",
+    "indigo": "₹1,950",
+    "airAsia": "₹1,850",
+    "vistara": "₹1,750"
+  },
+  {
+    "source": "mumbai",
+    "destination": "jaipur",
+    "indigo": "₹2,100",
+    "airAsia": "₹2,200",
+    "vistara": "₹2,300"
+  },
+  {
+    "source": "jaipur",
+    "destination": "mumbai",
+    "indigo": "₹2,200",
+    "airAsia": "₹2,100",
+    "vistara": "₹2,300"
+  },
+  {
+    "source": "delhi",
+    "destination": "pune",
+    "indigo": "₹2,300",
+    "airAsia": "₹2,200",
+    "vistara": "₹2,100"
+  },
+  {
+    "source": "pune",
+    "destination": "delhi",
+    "indigo": "₹2,200",
+    "airAsia": "₹2,300",
+    "vistara": "₹2,100"
+  },
+  {
+    "source": "bangalore",
+    "destination": "lucknow",
+    "indigo": "₹2,100",
+    "airAsia": "₹2,200",
+    "vistara": "₹2,300"
+  },
+  {
+    "source": "lucknow",
+    "destination": "bangalore",
+    "indigo": "₹2,200",
+    "airAsia": "₹2,100",
+    "vistara": "₹2,300"
+  },
+  {
+    "source": "chennai",
+    "destination": "ahmedabad",
+    "indigo": "₹1,600",
+    "airAsia": "₹1,700",
+    "vistara": "₹1,800"
+  },
+  {
+    "source": "ahmedabad",
+    "destination": "chennai",
+    "indigo": "₹1,700",
+    "airAsia": "₹1,600",
+    "vistara": "₹1,800"
+  },
+  {
+    "source": "jaipur",
+    "destination": "kolkata",
+    "indigo": "₹2,300",
+    "airAsia": "₹2,200",
+    "vistara": "₹2,100"
+  },
+  {
+    "source": "kolkata",
+    "destination": "jaipur",
+    "indigo": "₹2,200",
+    "airAsia": "₹2,300",
+    "vistara": "₹2,100"
+  },
+  {
+    "source": "delhi",
+    "destination": "mumbai",
+    "indigo": "₹3,000",
+    "airAsia": "₹2,800",
+    "vistara": "₹2,600"
+  },
+  {
+    "source": "mumbai",
+    "destination": "delhi",
+    "indigo": "₹2,900",
+    "airAsia": "₹2,700",
+    "vistara": "₹2,500"
+  },
+  {
+    "source": "bangalore",
+    "destination": "hyderabad",
+    "indigo": "₹1,800",
+    "airAsia": "₹1,900",
+    "vistara": "₹2,000"
+  },
+  {
+    "source": "hyderabad",
+    "destination": "bangalore",
+    "indigo": "₹1,950",
+    "airAsia": "₹1,850",
+    "vistara": "₹1,750"
+  },
+  {
+    "source": "chennai",
+    "destination": "mumbai",
+    "indigo": "₹2,200",
+    "airAsia": "₹2,300",
+    "vistara": "₹2,400"
+  },
+  {
+    "source": "mumbai",
+    "destination": "chennai",
+    "indigo": "₹2,300",
+    "airAsia": "₹2,200",
+    "vistara": "₹2,100"
+  }
+]
